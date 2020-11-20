@@ -9,7 +9,7 @@ The network of concern here takes in a pre-determined number of nuerons and laye
 # To Do
 -Finish writing explanations of each code block and their mathematical motivations\
 -Implement a way of inputting a random test vector and visualizing the network's placement of the set of points as either an x or an o\
--Clean up cost visualizations and run additional tests on batch losses versus single node loss calculation, among other tests TBD\
+-Clean up cost visualizations and run additional tests on batch losses versus single node loss calculation, among other tests TBD
 
 # References
 Higham, C.F. and Higham, D.J., 2019. Deep learning: An introduction for applied mathematicians. SIAM Review, 61(4), pp.860-891.
