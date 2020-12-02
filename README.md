@@ -7,7 +7,7 @@ I began learning more about the mathematical background to and proofs of fundame
 The network of concern here takes in a pre-determined number of nuerons and layers to determine if a point on a two dimensional plane is an x or an o to help convey the idea of classification by means of a nueral network in a very simple case. 
 
 # To Do
--Finish writing explanations of each code block and their mathematical motivations\
+-~~Finish writing explanations of each code block and their mathematical motivations~~\
 -Implement a way of inputting a random test vector and visualizing the network's placement of the set of points as either an x or an o\
 -Clean up cost visualizations and run additional tests on batch losses versus single node loss calculation, among other tests TBD
 
